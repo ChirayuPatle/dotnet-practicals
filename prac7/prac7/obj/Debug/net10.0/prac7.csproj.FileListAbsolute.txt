@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\DOTNET\prac7\prac7\bin\Debug\net10.0\prac7.exe
+C:\Users\HP\Desktop\DOTNET\prac7\prac7\bin\Debug\net10.0\prac7.deps.json
+C:\Users\HP\Desktop\DOTNET\prac7\prac7\bin\Debug\net10.0\prac7.runtimeconfig.json
+C:\Users\HP\Desktop\DOTNET\prac7\prac7\bin\Debug\net10.0\prac7.dll
+C:\Users\HP\Desktop\DOTNET\prac7\prac7\bin\Debug\net10.0\prac7.pdb
+C:\Users\HP\Desktop\DOTNET\prac7\prac7\obj\Debug\net10.0\prac7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\DOTNET\prac7\prac7\obj\Debug\net10.0\prac7.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\DOTNET\prac7\prac7\obj\Debug\net10.0\prac7.AssemblyInfo.cs
+C:\Users\HP\Desktop\DOTNET\prac7\prac7\obj\Debug\net10.0\prac7.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\DOTNET\prac7\prac7\obj\Debug\net10.0\prac7.sourcelink.json
+C:\Users\HP\Desktop\DOTNET\prac7\prac7\obj\Debug\net10.0\prac7.dll
+C:\Users\HP\Desktop\DOTNET\prac7\prac7\obj\Debug\net10.0\refint\prac7.dll
+C:\Users\HP\Desktop\DOTNET\prac7\prac7\obj\Debug\net10.0\prac7.pdb
+C:\Users\HP\Desktop\DOTNET\prac7\prac7\obj\Debug\net10.0\prac7.genruntimeconfig.cache
+C:\Users\HP\Desktop\DOTNET\prac7\prac7\obj\Debug\net10.0\ref\prac7.dll
